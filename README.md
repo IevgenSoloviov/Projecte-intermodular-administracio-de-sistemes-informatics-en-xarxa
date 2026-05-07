@@ -15,9 +15,9 @@
         I n f o r m à t i c s   e n   X a r x a
 ```
 
-### Contenidors · Microserveis · Ciberseguretat · Automatització · Monitorització
+### Contenidors · Microserveis · Ciberseguretat · Automatització · Monitorització · Orquestració · Xarxes
 
-*Docker · Kubernetes · Helm · Istio · Ansible · Suricata · Elastic Stack · Zabbix*
+*Docker · Kubernetes · Helm · Istio · Ansible · Suricata · Elastic Stack · Zabbix · Prometheus · Grafana · SNMP · iptables · Kali Linux · Bash · PowerShell*
 
 <br/>
 
